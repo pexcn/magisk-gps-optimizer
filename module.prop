@@ -1,0 +1,6 @@
+id=gps-optimizer
+name=GPS Optimizer
+version=12.5
+versionCode=1
+author=pexcn
+description=Use MIUI gps.conf to your device.
